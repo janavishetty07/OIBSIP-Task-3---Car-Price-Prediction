@@ -1,4 +1,5 @@
-🚗 Car Price Prediction using Linear Regression
+🚗 Car Price Prediction 
+
 This project is part of my Data Science internship and aims to predict the selling price of used cars based on various features such as the year of manufacture, fuel type, transmission type, kilometers driven, and more. The project uses a Linear Regression model built with Python and scikit-learn.
 
  Dataset
