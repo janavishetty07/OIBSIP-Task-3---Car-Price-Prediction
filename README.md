@@ -3,6 +3,7 @@
 This project is part of my Data Science internship and aims to predict the selling price of used cars based on various features such as the year of manufacture, fuel type, transmission type, kilometers driven, and more. The project uses a Linear Regression model built with Python and scikit-learn.
 
  Dataset
+
 The dataset used contains features of used cars, including:
 
 Year – Year of manufacture
@@ -22,9 +23,11 @@ Transmission – Manual or Automatic
 Owner – Number of previous owners
 
  Objective
+
 To build a machine learning model that can accurately predict the selling price of a car based on input features. The project also includes data preprocessing, EDA (Exploratory Data Analysis), visualizations, and model evaluation.
 
 🔧 Technologies Used
+
 Python
 
 Pandas
@@ -38,6 +41,7 @@ Seaborn
 Scikit-learn
 
 📌 Project Workflow
+
 Importing Libraries – Load all essential Python libraries.
 
 Loading the Dataset – Load the CSV file using pandas.
@@ -59,6 +63,7 @@ Visualization of Results – Plot actual vs predicted prices and residuals.
 Insights – Explore how features like Fuel Type and Transmission impact the price.
 
 📷 Visualizations
+
 Pair plots to explore feature relationships
 
 Box plots for price vs fuel type and transmission
@@ -68,5 +73,6 @@ Scatter plot of actual vs predicted prices
 Residual plot to analyze prediction errors
 
 ✅ Conclusion
+
 This project demonstrates how regression models can be applied to real-world datasets to generate valuable business insights. It highlights the importance of data cleaning, feature encoding, and visualization in building reliable ML models.
 
